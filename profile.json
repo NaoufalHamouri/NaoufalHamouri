@@ -1,0 +1,36 @@
+{
+  "login": "NaoufalHamouri",
+  "name": "Naoufal Hamouri",
+  "class": "Adversarial ML Researcher",
+  "guild": "PhD · EST Tétouan",
+  "base": "Tétouan, Morocco",
+  "city": "Tétouan",
+  "timezone": "Africa/Casablanca",
+  "timezone_label": "Tétouan time",
+  "tagline": "I fool neural networks on purpose, so they learn not to be fooled.",
+  "inventory": [
+    { "name": "Python",     "item": "Serpent Staff",  "icon": "python",   "rarity": "legendary" },
+    { "name": "PyTorch",    "item": "Tome of Flames", "icon": "pytorch",  "rarity": "legendary" },
+    { "name": "FGSM·PGD",   "item": "Epsilon Dagger", "icon": "dagger",   "rarity": "legendary" },
+    { "name": "Docker",     "item": "Cargo Whale",    "icon": "docker",   "rarity": "epic" },
+    { "name": "Git",        "item": "Branching Wand", "icon": "git",      "rarity": "epic" },
+    { "name": "SQL",        "item": "Ancient Ledger", "icon": "database", "rarity": "epic" },
+    { "name": "IoT·MQTT",   "item": "Signal Crystal", "icon": "antenna",  "rarity": "rare" },
+    { "name": "Symfony",    "item": "Elephant Aegis", "icon": "elephant", "rarity": "rare" },
+    { "name": "JavaScript", "item": "Yellow Potion",  "icon": "potion",   "rarity": "rare" }
+  ],
+  "quests": [
+    {
+      "repo": "projet-embarque",
+      "title": "Edge Medical AI",
+      "status": "cleared",
+      "description": "Quantized + pruned chest X-ray models on tiny VMs, monitored live over MQTT + ThingsBoard."
+    },
+    {
+      "repo": "gestion_scolair",
+      "title": "School Manager",
+      "status": "cleared",
+      "description": "School management web app built with Symfony, Twig and Webpack. A team quest."
+    }
+  ]
+}
